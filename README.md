@@ -1,5 +1,11 @@
-# Employee-Retention---Random-Forest-Classifier
-This project is to analyze a dataset and build predictive models that can provide insights to the Human Resources (HR) department of a large consulting firm.
+# 🚀 Employee Retention AI: Predicting Attrition at Salifort Motors
+
+**Identified $1.8M/year in potential savings** by analyzing HR data and building predictive models to reduce employee turnover.
+
+## 🔍 Key Insights
+- **7-Project Trap**: 100% attrition rate for employees handling 7+ projects
+- **5-Year Cliff**: Employees at 5-year tenure quit 2X more than average
+- **Overwork Signal**: 275+ monthly hours → 3X higher quit probability
 ## Employee Retention: Providing data-driven suggestions for HR
 ### Background Salifort Motors
 This project is to analyze a dataset and build predictive models that can provide insights to the Human Resources (HR) department of a large consulting firm.
