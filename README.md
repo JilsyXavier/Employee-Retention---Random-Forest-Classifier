@@ -42,6 +42,4 @@ Check model assumptions
 Evaluate the model
 
 ### Summary
-The logistic regression model achieved precision of 79%, recall of 82%, f1-score of 80% (all weighted averages), and accuracy of 82%, on the test set.
-
 After conducting feature engineering, the random forest model achieved ruc_auc score of 97%,recall of 91%, and accuracy of 88.01%, on the test set. The random forest modestly outperformed the decision tree model.
