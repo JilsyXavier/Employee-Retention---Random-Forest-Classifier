@@ -8,7 +8,7 @@
 - **Overwork Signal**: 275+ monthly hours → 3X higher quit probability
 ## Employee Retention: Providing data-driven suggestions for HR
 ### Background Salifort Motors
-This project is to analyze a dataset and build predictive models that can provide insights to the Human Resources (HR) department of a large consulting firm.
+This project is to analyze a dataset and build predictive models that can provide insights to the Human Resources (HR) department of a Salifort.
 
 Salifort’s senior leadership team is concerned about how many employees are leaving the company. Salifort strives to create a corporate culture that supports employee success and professional development. Further, the high turnover rate is costly in the financial sense. Salifort makes a big investment in recruiting, training, and upskilling its employees. As a first step, the leadership team asks Human Resources to survey a sample of employees to learn more about what might be driving turnover.
 The dataset that will be using in this lab contains 15,000 rows and 10 columns for the variables .Dataset avaialble on Kaggle.
